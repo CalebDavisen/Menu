@@ -1,0 +1,10 @@
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\bin\Debug\Menu_Davidsen.exe.config
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\bin\Debug\Menu_Davidsen.exe
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\bin\Debug\Menu_Davidsen.pdb
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\obj\Debug\Menu_Davidsen.csproj.AssemblyReference.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\obj\Debug\Menu_Davidsen.Form1.resources
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\obj\Debug\Menu_Davidsen.Properties.Resources.resources
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\obj\Debug\Menu_Davidsen.csproj.GenerateResource.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\obj\Debug\Menu_Davidsen.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\obj\Debug\Menu_Davidsen.exe
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Davidsen\obj\Debug\Menu_Davidsen.pdb
